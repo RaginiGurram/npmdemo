@@ -1,0 +1,19 @@
+{
+  "name": "myfirstpkg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "testing",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaginiGurram/npmdemo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RaginiGurram/npmdemo/issues"
+  },
+  "homepage": "https://github.com/RaginiGurram/npmdemo#readme"
+}
